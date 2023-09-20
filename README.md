@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Favour Aniogor, a Software Engineer based in Nigeria.
+
 <!--
 **SuperDevFavour/SuperDevFavour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
